@@ -28,6 +28,8 @@ leave so the business can take proactive retention action.
 - 26.5% churn rate — better balanced than typical datasets
 
 ---
+## Power BI Dashboard
+![Customer Churn Dashboard](churn_dashboard.png)
 
 ## Visualisations
 
